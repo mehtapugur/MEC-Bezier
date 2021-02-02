@@ -14,7 +14,7 @@ This is the first coordinate points:
 
 and Coordinate System:
 
-![](images/bezier1.png)
+<img src="images/bezier1.png" width = 600>
 
 This is a second coordinate points:
 
@@ -22,4 +22,4 @@ This is a second coordinate points:
 
 and Coordinate System:
 
-<img src="images/bezier2.png" width = 750>
+<img src="images/bezier2.png" width = 650>

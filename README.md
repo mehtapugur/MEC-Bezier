@@ -22,4 +22,4 @@ This is a second coordinate points:
 
 and Coordinate System:
 
-<img src="images/bezier2.png" width = 250>
+<img src="images/bezier2.png" width = 750>

@@ -10,7 +10,7 @@ There is a bezier curve formula:
 
 This is the first coordinate points:
 
-![coordinate1](https://user-images.githubusercontent.com/24686636/107087845-20dab600-680d-11eb-86d0-cecb6ebd08c2.png width=200px)
+![coordinate1](https://user-images.githubusercontent.com/24686636/107087845-20dab600-680d-11eb-86d0-cecb6ebd08c2.png)
 
 and Coordinate System:
 
